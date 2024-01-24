@@ -25,7 +25,7 @@ This is a React Native management application built with Expo and the Supabase c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/manageme-native.git
+   git clone https://github.com/mrcoder57/manageme-native.git
    cd manageme-native
    npm install
    npx expo start
